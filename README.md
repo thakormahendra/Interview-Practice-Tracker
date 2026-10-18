@@ -104,3 +104,7 @@ interview-practice-tracker/
    ```bash
    npm run build
    ```
+
+## 🎥 Demo
+
+<video src="./InteviewTracker.mov" controls="controls" width="100%"></video>
